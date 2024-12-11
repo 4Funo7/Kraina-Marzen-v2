@@ -113,9 +113,9 @@ nav {
   z-index: 1;
 
 }
-/* nav .navbar-toggler {
+nav .navbar-toggler {
   padding: 10px 15px;
-} */
+}
 nav .navbar-brand {
   font-weight: bold;
   color: #fff;
@@ -126,7 +126,7 @@ nav .navbar-brand,
 nav .fa-bars {
   color: #fff;
   transition: 0.3s;
-   margin: 0 10px;
+   /* margin: 0 10px; */
 }
 nav .nav-link:focus,
 nav .nav-link:hover,
